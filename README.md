@@ -3,8 +3,6 @@ A collection of data science projects completed as part of the FCDS .
 
 # project 1 : Predicting Student Performance and Passenger Survival: A Supervised Learning Approach
 
-# 📊 Regression & Classification Project – Student Performance & Titanic Survival
-
 This project explores **two major areas of supervised learning**:
 
 1. 🔁 **Regression Analysis** on a student performance dataset.
@@ -21,7 +19,7 @@ It includes complete **EDA**, **data preprocessing**, **modeling**, **visualizat
 - **Goal**: Predict students' final grades (`G3`) using features like past performance, family background, and lifestyle.
 
 ### 2. 🚢 Titanic Survival Dataset
-- **Source**: [Kaggle Titanic Dataset](https://www.kaggle.com/c/titanic/data)
+- **Source**: [Kaggle Titanic Dataset]([https://www.kaggle.com/c/titanic/data](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams))
 - **Goal**: Predict whether a passenger survived based on demographics and ticket information.
 
 ---
@@ -86,8 +84,3 @@ It includes complete **EDA**, **data preprocessing**, **modeling**, **visualizat
 - 🔍 Confusion matrix for Titanic predictions.
 
 > *(Make sure to include screenshots or `.png` files in an `images/` folder and reference them here)*
-
-```markdown
-![Regression Line](images/regression_line.png)
-![Heatmap](images/heatmap.png)
-![Confusion Matrix](images/confusion_matrix.png)
